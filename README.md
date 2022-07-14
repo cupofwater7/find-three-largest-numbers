@@ -1,5 +1,7 @@
+                                                Coding Interview Questions
 # find-three-largest-numbers
 
+Difficulty: easy
 
   Write a function that takes in an array of at least three integers and,
   without sorting the input array, returns a sorted array of the three largest
